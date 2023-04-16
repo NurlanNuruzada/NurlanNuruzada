@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=18&color=2BF723&lines=Hello,+my+name+is+Nurlan.;I'm+software+developer+and+instructor.)](https://git.io/typing-svg)
 <h3 align="left">A passionate developer from Azerbaijan</h3>
-<img  aling="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
+<img  aling="right" alt="Coding" width="400" height="200" src="https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif">
 - 👨‍💻 All of my projects are available at https://github.com/nurlannuruzada?tab=repositories
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nurlannuruzada&label=Profile%20views&color=0e75b6&style=flat" alt="nurlannuruzada" /> </p>
 --
