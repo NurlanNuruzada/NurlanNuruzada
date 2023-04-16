@@ -4,9 +4,8 @@
 <img  aling="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nurlannuruzada&label=Profile%20views&color=0e75b6&style=flat" alt="nurlannuruzada" /> </p>
----
+--
  📫 How to reach me **nurlan.nuruzade205@gmail.com**
- ---
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/nurlan_nuruzada" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nurlan_nuruzada" height="30" width="40" /></a>
