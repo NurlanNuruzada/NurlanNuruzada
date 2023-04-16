@@ -1,5 +1,12 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=18&color=2BF723&lines=Hello,+my+name+is+Nurlan.;I'm+software+developer+and+instructor.)](https://git.io/typing-svg)
-<h3 align="left">A passionate developer from Azerbaijan</h3>
+# 🏄‍♂️ Nurlan Nuruzada
+
+**`A passionate developer from Azerbaijan.`**
+
+I am an 18-year-old full-stack web development student with a passion for learning new skills. With expertise in front-end and back-end technologies, including HTML, CSS, JavaScript, React, and Node.js, I am dedicated to staying up-to-date with industry trends. As a team player with excellent communication skills, I bring a strong work ethic and problem-solving abilities to any project.
+
+When I am not coding, you can find me indulging in my hobbies, such as reading, playing games, and exploring new cultures. My determination and hunger for learning drive me to make a significant impact in the field of web development and beyond. I am constantly pushing the boundaries of my expertise and seeking opportunities for growth.
+<br>
 <img  aling="right" alt="Coding" width="400" height="200" src="https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif">
 - 👨‍💻 All of my projects are available at https://github.com/nurlannuruzada?tab=repositories
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nurlannuruzada&label=Profile%20views&color=0e75b6&style=flat" alt="nurlannuruzada" /> </p>
