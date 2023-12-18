@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=18&color=2BF723&lines=Hello,+my+name+is+Nurlan.;I'm+software+developer.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=18&color=2BF723&lines=Hello,+my+name+is+Nurlan.;I'm+software+developer+and+instructor.)](https://git.io/typing-svg)
 # 🏄‍♂️ Nurlan Nuruzada
 
 **`A passionate developer from Azerbaijan.`**
