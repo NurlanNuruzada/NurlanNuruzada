@@ -3,9 +3,7 @@
 
 **`A passionate developer from Azerbaijan.`**
 
-I am a full-stack web developer with a passion for learning new skills. With expertise in front-end and back-end technologies, including HTML, CSS, JavaScript, React, and Node.js, I am dedicated to staying up-to-date with industry trends. As a team player with excellent communication skills, I bring a strong work ethic and problem-solving abilities to any project.
-
-When I am not coding, you can find me indulging in my hobbies, such as reading, playing games, and exploring new cultures. My determination and hunger for learning drive me to make a significant impact in the field of web development and beyond. I am constantly pushing the boundaries of my expertise and seeking opportunities for growth.
+I am a full-stack web developer with a passion for learning new skills.
 <br>
 <br>
 <br>
