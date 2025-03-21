@@ -11,7 +11,7 @@ I am a full-stack web developer with a passion for learning new skills.
 - 👨‍💻 All of my projects are available at https://github.com/nurlannuruzada?tab=repositories
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nurlannuruzada&label=Profile%20views&color=0e75b6&style=flat" alt="nurlannuruzada" /> </p>
 --
- 📫 How to reach me **nurlan.nuruzade205@gmail.com**
+ 📫 How to reach me nurlan.nuruzada@gmail.com
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/nurlan_nuruzada" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nurlan_nuruzada" height="30" width="40" /></a>
