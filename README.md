@@ -3,7 +3,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7C6&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Nurlan+Nuruzada;Full-Stack+Developer+%26+Instructor;Passionate+about+Learning+and+Building)](https://git.io/typing-svg)
 
 # 🏄‍♂️ Nurlan Nuruzada  
-**Full-stack Developer | Instructor | Tech Enthusiast**
 
 _A passionate developer from Azerbaijan who loves to create elegant and efficient solutions._
 
