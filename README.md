@@ -1,18 +1,15 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7C6&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Nurlan+Nuruzada;Full-Stack+Developer+%26+Instructor;Passionate+about+Learning+and+Building)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7C6&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Nurlan+Nuruzada;Full-Stack+Developer+%26+QA+Engineer;Passionate+about+Learning+and+Building)](https://git.io/typing-svg)
 
-# 🏄‍♂️ Nurlan Nuruzada  
 
 _A passionate developer from Azerbaijan who loves to create elegant and efficient solutions._
 
 ---
 
-### 💡 About Me
-👨‍💻 All my projects → [GitHub Profile](https://github.com/nurlannuruzada?tab=repositories)  
+### About Me
 📫 Reach me → **nurlan.nuruzada@gmail.com**  
 🌱 Currently exploring **AI + Cloud Development**  
-⚡ Fun fact: I debug better with music on 🎧  
 
 ---
 
